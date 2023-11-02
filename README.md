@@ -10,9 +10,8 @@ Primary data Types:
 
 The primary data types we are going to use in GIMP are Integer and Boolean.
 
-Integer (Int) : all integer values from negative to positive including zero
-
-Boolean (Bool) : all boolean values which are true and false
+  1, Integer (Int) : all integer values from negative to positive including zero
+  2, Boolean (Bool) : all boolean values which are true and false
 
 When the variables are declared, the user can choose to immediately assign them a
 value, or to assign a value later on.
@@ -22,7 +21,7 @@ Data Structures:
 
 The data Structure we are going to use in GIMP is array
 
-Array : holds elements of primary data type, for now it’s implemented to
+  1,Array : holds elements of primary data type, for now it’s implemented to
 hold only Int values.
 
 
@@ -31,24 +30,17 @@ Control Structure:
 
 Here are the fundamental Control Structure in GIMP
 
-If (Control) Structure
-
-IF ELSE: The else statement is optional and will execute only if the
+  1, If (Control) Structure
+  2, IF ELSE: The else statement is optional and will execute only if the
 condition in the if statement evaluates to false.
-
-While (Reputation) Structure
-
-WHILE DO: execute a block of statements continuously until the given
+  3, While (Reputation) Structure
+  4, WHILE DO: execute a block of statements continuously until the given
 condition evaluates to false
-
-Assignment and Declaration Operators
-
-Assignment: Assigning values into given variable
-
-Declearation: declarations specify the data type of the variable we’re
+  5, Assignment and Declaration Operators
+  6, Assignment: Assigning values into given variable
+  7, Declearation: declarations specify the data type of the variable we’re
 declaring
-
-Skip: a skip performs a jump, and does nothing
+  8, Skip: a skip performs a jump, and does nothing
 
 
 
