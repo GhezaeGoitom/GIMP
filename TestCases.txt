@@ -1,0 +1,65 @@
+-- first test case
+-- arr g[5];
+-- int x = 8+1;
+-- int y = 3-1-6;
+-- int z = 5-2;
+-- g[0] = x^y;
+-- g[1] = x + y;
+-- g[2] = x*y;
+-- g[3] = x / y;
+-- g[4] = x - z;
+
+arr g[5];int x = 8+1;int y = 3-1-6;int z = 5-2;g[0] = x^y;g[1] = x + y;g[2] = x*y;g[3] = x / y;g[4] = x - z;
+
+
+-- test case two
+-- int x = -2;
+-- int y = 5;
+-- bool z = False;
+-- bool i = True;
+-- bool k = True;
+-- bool s = False;
+-- bool v = True;
+-- if (x >= y){
+--     x = x + y;
+-- }else{
+--    y = y - x;
+--    k = z And i;
+--    s = z Or i;
+--    v = Not s;
+--    skip;
+-- }
+
+int x = 10;int y = 5;bool z = False;bool i = True;bool k = True;bool s = False;bool v = True;if (x >= y){x = x + y;}else{y = y - x;k = z And i;s = z Or i;v = Not s;skip;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+int a = 10;
+int b = 4;
+whiledo (a!=b) {
+	if (a<=b){
+	   b=b-a;
+	}
+	else {a=a-b;}
+}
