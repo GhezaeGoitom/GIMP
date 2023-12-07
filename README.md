@@ -1,6 +1,6 @@
 ## GIMP
 
-GIMP is an IMP-like simple imperative programming language that has been built for the final exam of a course named “Formal Methods In Computer Science”.
+GIMP is an IMP-like simple imperative programming language 
 
 ### Primary Data Type:
 
